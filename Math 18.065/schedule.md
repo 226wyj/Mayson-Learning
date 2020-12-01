@@ -1,8 +1,8 @@
 | LEC# | TITLE                                                       | Reading      | Assignment      |
 | ---- | ----------------------------------------------------------- | ------------ | --------------- |
 | 1    | The Column Space of A Contains All Vectors Ax               | I.1 ✅        | I.1[1,4,9,18] ✅ |
-| 2    | Multiplying and Factoring Matrices                          | I.2 ✅        | I.2[2,6]     ✅  |
-| 3    | Orthonormal Columns In Q Give Q’Q= I                        | I.5          |                 |
+| 2    | Multiplying and Factoring Matrices                          | I.2 ✅        | I.2[2,6] ✅      |
+| 3    | Orthonormal Columns In Q Give Q’Q= I                        | I.5 ✅        | I.5[2,4,6,7] ✅  |
 | 4    | Eigenvalues and Eigenvectors                                | I.6          |                 |
 | 5    | Positive Definite and Semidefinite Matrices                 | I.7          |                 |
 | 6    | Singular Value Decomposition (SVD)                          | I.8          |                 |
