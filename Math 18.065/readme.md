@@ -5,7 +5,7 @@
 | 3    | Orthonormal Columns In Q Give Q’Q= I ✓                      | I.5 ✓        | I.5[2,4,6,7] ✓             |
 | 4    | Eigenvalues and Eigenvectors ✓                              | I.6 ✓        | I.6[1,2,11,15,16,19] ✓     |
 | 5    | Positive Definite and Semidefinite Matrices ✓               | I.7 ✓        | I.7[3,14,15,23,24,26,28] ✓ |
-| 6    | Singular Value Decomposition (SVD) ✓                        | I.8          |                            |
+| 6    | Singular Value Decomposition (SVD) ✓                        | I.8 ✓        | I.8[6,7,8] ✓               |
 | 7    | Eckart-Young: The Closest Rank k Matrix to A ✓              | I.9          |                            |
 | 8    | Norms of Vectors and Matrices ✓                             | I.11         |                            |
 | 9    | Four Ways to Solve Least Squares Problems ✓                 | II.2         |                            |
