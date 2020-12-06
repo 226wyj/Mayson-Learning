@@ -28,7 +28,7 @@
 | 26   | Structure of Neural Nets for Deep Learning                  | VII.1        |                            |
 | 27   | Backpropagation to Find Derivative of the Learning Function | VII.2        |                            |
 | 28   | Computing in Class                                          | VII.2        |                            |
-| 30   | Completing a Rank-One Matrix / Circulants!                  | IV.8,IV.2    |                            |
+| 30   | Completing a Rank-One Matrix / Circulants!                  | IV.8, IV.2   |                            |
 | 31   | Eigenvectors of Circulant Matrices: Fourier Matrix          | IV.2         |                            |
 | 32   | ImageNet is a CNN / The Convolution Rule                    | IV.2         |                            |
 | 33   | Neural Nets and the Learning Function                       | VII.1, IV.10 |                            |
