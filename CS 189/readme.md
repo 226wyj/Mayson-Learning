@@ -1,6 +1,8 @@
+# UC Berkeley CS 189 Introduction to Machine Learning by Prof. Jonathan Shewchuk
+
 | LEC# | DATE        | TITLE                                             | READING                                | ASSIGNMENT |
 | ---- | ----------- | ------------------------------------------------- | -------------------------------------- | ---------- |
-| 10   | February 27 | Regression: fitting curves to data.               | ISL 4–4.3                              | HW3        |
+| 10   | February 27 | Regression: fitting curves to data. ✅             | ISL 4–4.3                              |            |
 | 11   | March 4     | Newton's method and logistic regression.          | ISL 4.4.3, 7.1, 9.3.3; ESL 4.4.1.      | DIS6       |
 | 12   | March 6     | Statistical justifications for regression.        | ESL 2.5, 2.9.                          |            |
 | 13   | March 11    | Ridge regression                                  | ISL 6–6.1.3, 6.2–6.2.1; ESL 3.4–3.4.3. | DIS7       |

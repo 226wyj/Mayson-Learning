@@ -1,14 +1,14 @@
+# MIT 18.065 Matrix Methods by Prof. Gilbert Strang
+
 | LEC# | TITLE                                                       | Reading      | Assignment                 |
 | ---- | ----------------------------------------------------------- | ------------ | -------------------------- |
-| 1    | The Column Space of A Contains All Vectors Ax ✓             | I.1 ✓        | I.1[1,4,9,18] ✓            |
-| 2    | Multiplying and Factoring Matrices ✓                        | I.2 ✓        | I.2[2,6] ✓                 |
-| 3    | Orthonormal Columns In Q Give Q’Q= I ✓                      | I.5 ✓        | I.5[2,4,6,7] ✓             |
-| 4    | Eigenvalues and Eigenvectors ✓                              | I.6 ✓        | I.6[1,2,11,15,16,19] ✓     |
-| 5    | Positive Definite and Semidefinite Matrices ✓               | I.7 ✓        | I.7[3,14,15,23,24,26,28] ✓ |
-| 6    | Singular Value Decomposition (SVD) ✓                        | I.8 ✓        | I.8[6,7,8] ✓               |
-| 7    | Eckart-Young: The Closest Rank k Matrix to A ✓              | I.9          |                            |
-| 8    | Norms of Vectors and Matrices ✓                             | I.11         |                            |
-| 9    | Four Ways to Solve Least Squares Problems ✓                 | II.2         |                            |
+| 1    | The Column Space of A Contains All Vectors Ax ✅             | I.1 ✅        | I.1[1,4,9,18] ✅            |
+| 2    | Multiplying and Factoring Matrices ✅                        | I.2 ✅        | I.2[2,6] ✅                 |
+| 3    | Orthonormal Columns In Q Give Q’Q= I ✅                      | I.5 ✅        | I.5[2,4,6,7] ✅             |
+| 4    | Eigenvalues and Eigenvectors ✅                              | I.6 ✅        | I.6[1,2,11,15,16,19] ✅     |
+| 5    | Positive Definite and Semidefinite Matrices ✅               | I.7 ✅        | I.7[3,14,15,23,24,26,28] ✅ |
+| 6    | Singular Value Decomposition (SVD) ✅                        | I.8 ✅        | I.8[6,7,8] ✅               |
+| 9    | Four Ways to Solve Least Squares Problems ✅                 | II.2         |                            |
 | 10   | Survey of Difficulties with Ax = b                          | Intro Ch.2   |                            |
 | 11   | Minimizing ‖x‖ Subject to Ax = b                            | I.11         |                            |
 | 12   | Computing Eigenvalues and Singular Values                   | II.1         |                            |
@@ -34,3 +34,16 @@
 | 33   | Neural Nets and the Learning Function                       | VII.1, IV.10 |                            |
 | 34   | Distance Matrices / Procrustes Problem / First Project      | IV.9, IV.10  |                            |
 | 35   | Finding Clusters in Graphs / Second Project: Handwriting    | IV.6, IV.7   |                            |
+
+---
+
+### MIT 18.06 Linear Algebra by Prof. Gilbert Strang
+- SES#14 Orthogonality ✅
+- SES#15 Projections and subspaces ✅
+- SES#16 Least squares approximations 
+- SES#17 Gram-Schmidt and A = QR 
+- PS#5
+
+
+<!-- | 7    | Eckart-Young: The Closest Rank k Matrix to A ✅              | I.9          |                            |
+| 8    | Norms of Vectors and Matrices ✅                             | I.11         |                            | -->

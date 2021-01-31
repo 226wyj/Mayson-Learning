@@ -1,7 +1,9 @@
+# NYU CSCI-GA.2250 Operating Systems by Prof. Hubertus Franke
+
 | Date  | Lectures                    | Readings          | Assignments |
 | ----- | --------------------------- | ----------------- | ----------- |
 | 09/09 | Overview and Introduction ✓ | Chapter 1         |             |
-| 09/14 | Introduction (cont)         | Chapter 1         | Lab1        |
+| 09/14 | Introduction (cont) ✓       | Chapter 1         | Lab1  ✓     |
 | 09/21 | Processes and Threads       | Chapter 2.1 / 2.2 |             |
 | 09/28 | CPU Scheduling              | Chapter 2.4       | Lab2        |
 | 10/05 | Concurrency                 | Chapter 2.3 and 6 |             |
