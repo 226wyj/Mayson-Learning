@@ -1,0 +1,25 @@
+- On-line learning scenario:
+  - On-line learning basics. [Lec#1, 02/03] ✅
+  - Learning and games.
+  - Learning with large expert spaces.
+  - Online convex optimization.
+  - Bandit problems.
+  - Sequential portfolio selection.
+- Advanced standard scenario:
+  - Learning kernels.
+  - Ensemble methods.
+  - Structured prediction.
+- Large-scale learning:
+  - Dimensionality reduction
+  - Low-rank approximation.
+  - Large-scale optimization.
+  - Distributed learning.
+  - Clustering.
+  - Spectral learning.
+  - Massive multi-class classification.
+- Other non-standard learning scenarios:
+  - Domain adaptation and sample bias correction.
+  - Transduction and semi-supervised learning.
+  - Active learning.
+  - Time series prediction.
+  - Privacy-aware learning.
