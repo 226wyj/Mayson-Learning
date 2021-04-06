@@ -1,7 +1,8 @@
 - On-line learning scenario:
   - On-line learning basics. [Lec#1, 02/03] ✅
-  - Learning and games.
-  - Learning with large expert spaces.
+  - Follow The Perturbed Leader [Lec#2, 02/10] ✅
+  - Learning and games. [Lec#3]
+  - Learning with large expert spaces. [Lec#4]
   - Online convex optimization.
   - Bandit problems.
   - Sequential portfolio selection.
