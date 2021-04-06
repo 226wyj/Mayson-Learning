@@ -1,3 +1,8 @@
+# CSCI-GA.3033-007 Advanced Machine Learning
+- Spring 2021
+- Instructor: Mehryar Mohri
+
+## Lectures
 - On-line learning scenario:
   - On-line learning basics. [Lec#1, 02/03] ✅
   - Follow The Perturbed Leader [Lec#2, 02/10] ✅
@@ -7,7 +12,7 @@
   - Bandit problems.
   - Sequential portfolio selection.
 - Advanced standard scenario:
-  - Learning kernels.
+  - Learning kernels. [Lec#9 04/07]
   - Ensemble methods.
   - Structured prediction.
 - Large-scale learning:
