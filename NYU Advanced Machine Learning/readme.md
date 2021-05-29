@@ -1,8 +1,8 @@
-# CSCI-GA.3033-007 Advanced Machine Learning
+## CSCI-GA.3033-007 Advanced Machine Learning
 - Spring 2021
 - Instructor: Mehryar Mohri
 
-## Lectures
+### Lectures
 - On-line learning scenario:
   - On-line learning basics. [Lec#1, 02/03] ✅
   - Follow The Perturbed Leader [Lec#2, 02/10] ✅
