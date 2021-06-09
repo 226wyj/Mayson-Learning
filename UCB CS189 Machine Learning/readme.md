@@ -6,7 +6,7 @@
 | 11 ✅ | March 4     | Newton's method and logistic regression.          | ISL 4.4.3, 7.1, 9.3.3; ESL 4.4.1.      | DIS6       |
 | 12 ✅ | March 6     | Statistical justifications for regression.        | ESL 2.5, 2.9.                          |            |
 | 13 ✅ | March 11    | Ridge regression and LASSO                        | ISL 6–6.1.3, 6.2–6.2.1; ESL 3.4–3.4.3. | DIS7       |
-| 14   | April 1     | Kernels                                           | ISL 9.3.2; ESL 12.3-12.3.1             |            |
+| 14 ✅ | April 1     | Kernels                                           | ISL 9.3.2; ESL 12.3-12.3.1             |            |
 | 15   | March 13    | Decision trees                                    | ISL 8-8.1                              | DIS8, HW4  |
 | 16   | March 20    | More decision trees                               | ISL 8.2                                | DIS9       |
 | 17   | April 3     | Neural networks.                                  | ESL 11.3-11.4                          | HW5        |
